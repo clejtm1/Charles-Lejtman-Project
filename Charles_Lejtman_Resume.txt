@@ -1,0 +1,31 @@
+Charles Lejtman
+Baltimore, MD 21209 | (410)-258-4570 | clejtm1@students.towson.edu
+
+EDUCATION
+Bachelor of Science, Computer Science						August 2020
+Towson University, Towson, MD | GPA:3.522 | Dean’s List: Spring 2018, Fall 2018, Spring 2019
+
+SKILLS
+Technical Skills: Java, MySQL, Python JavaScript, Netlogo, HTML, R, Eclipse, Visual Studio, Gitlab, Bitbucket, Node.js
+
+RELATED COURSEWORK
+Web Based Program (Spring 2020) - Learned about the client-server system, and used and implemented JavaScript libraries and frameworks
+
+Computer Simulation and Modeling (Spring 2020) - Built a model of a mock town and simulated a Covid 19 epidemic
+
+Object Oriented Design and Programming (Fall 2019) - Analyzed design patterns in object oriented programming, and implement these patterns in class projects
+
+Operating Systems (Fall 2019) -  Examined operating systems as resource managers with emphasis on file processor, memory and device management and processes. 
+
+Database Management Systems (Spring 2019) - Created and implemented a database for a mock hospital
+
+Programming Language Design/ Implementation (Spring 2019) - Learned underlying concepts in high level programing languages and techniques for their implementation, experimented and programed with various programming languages
+
+Other Coursework: Data Mining, Data Networking and Communication, Software Engineering, Computer Organization/Architecture, Data Structures/ Algorithm Analysis	
+
+WORK EXPERIENCE				
+Tutor, Shomrei Emunah Synagogue, Baltimore, MD 				          February-May 2017
+	Contributed to student learning, growth, and advancement.
+	Served as a role-model for students.
+	Maintained a growth mindset toward student learning.
+	Demonstrated academic competence subject I was teaching
